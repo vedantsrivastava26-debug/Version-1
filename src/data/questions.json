@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "banner": "Addition",
+    "question": "What is 5 + 3?",
+    "options": [
+      { "text": "8", "correct": true, "direction": "right" },
+      { "text": "7", "correct": false, "direction": "left" },
+      { "text": "9", "correct": false, "direction": "right" },
+      { "text": "6", "correct": false, "direction": "down" }
+    ]
+  },
+  {
+    "id": 2,
+    "banner": "Subtraction",
+    "question": "What is 10 - 4?",
+    "options": [
+      { "text": "5", "correct": false, "direction": "left" },
+      { "text": "6", "correct": true, "direction": "down" },
+      { "text": "7", "correct": false, "direction": "right" },
+      { "text": "4", "correct": false, "direction": "down" }
+    ]
+  },
+  {
+    "id": 3,
+    "banner": "Multiplication",
+    "question": "What is 3 × 4?",
+    "options": [
+      { "text": "11", "correct": false, "direction": "left" },
+      { "text": "12", "correct": true, "direction": "right" },
+      { "text": "13", "correct": false, "direction": "right" },
+      { "text": "14", "correct": false, "direction": "down" }
+    ]
+  },
+  {
+    "id": 4,
+    "banner": "Division",
+    "question": "What is 15 ÷ 3?",
+    "options": [
+      { "text": "4", "correct": false, "direction": "left" },
+      { "text": "5", "correct": true, "direction": "down" },
+      { "text": "6", "correct": false, "direction": "right" },
+      { "text": "3", "correct": false, "direction": "down" }
+    ]
+  },
+  {
+    "id": 5,
+    "banner": "Addition",
+    "question": "What is 7 + 6?",
+    "options": [
+      { "text": "12", "correct": false, "direction": "left" },
+      { "text": "13", "correct": true, "direction": "right" },
+      { "text": "14", "correct": false, "direction": "right" },
+      { "text": "11", "correct": false, "direction": "down" }
+    ]
+  }
+]
+
